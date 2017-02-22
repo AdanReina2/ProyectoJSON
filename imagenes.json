@@ -1,0 +1,302 @@
+{
+  "head": {
+    "vars": [ "uri" , "om_esCustodiadaPor" , "om_talladoEn" , "rdfs_label" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/beso_de_judas" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Vera_Cruz" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1934" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Beso de Judas" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/cristo_de_la_salud_y_de_la_expiracion" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Vera_Cruz" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XVI" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Cristo de la Salud y de la Expiración" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/cristo_de_las_indulgencias" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XIV" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Cristo de las Indulgencias" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/cristo_de_los_milagros" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1580" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Cristo de los Milagros" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/cristo_resucitado" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Soledad" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XX" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Cristo Resucitado" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/cristo_yacente" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Soledad" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XVI" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Cristo Yacente" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/dolorosa_de_la_cruz" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Vera_Cruz" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1951" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Dolorosa de la Cruz" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/dolorosa_esperanza_ante_la_caridad_del_padre_y_senor_de_las_penas" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Amor" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XVI" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Dolorosa Esperanza ante la Caridad del Padre y Señor de las Penas" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/el_calvario" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1927" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "El Calvario" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/el_senor_camino_del_calvario" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1956" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "El Señor Camino del Calvario" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/el_triunfo_de_la_eucaristia" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Sagrada_Cena" } ,
+        "om_talladoEn": { "type": "literal" , "value": "2011" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "El Triunfo de la Eucaristía" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/entrada_triunfal_de_jesus_en_jerusalen" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Ramos" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1946" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Entrada Triunfal de Jesús en Jerusalén" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/exaltacion_de_la_cruz" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1953" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Exaltación de la Cruz" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/fervoroso_cristo_del_refugio" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Batallas" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1780" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Fervoroso Cristo del Refugio" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/jesus_condenado" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Jesus_Condenado" } ,
+        "om_talladoEn": { "type": "literal" , "value": "2012" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Jesús Condenado" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/la_caida_del_senor" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1956" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "La Caída del Señor" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/la_flagelacion" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Vera_Cruz" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1913" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "La Flagelación" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/la_magdalena" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1904" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "La Magdalena" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/la_veronica" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1903" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "La Verónica" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/maria_santisima_de_la_esperanza" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Ramos" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1949" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "María Santísima de la Esperanza" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/maria_santisima_de_los_dolores" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Batallas" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XVIII" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "María Santísima de los Dolores" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestra_madre_y_senora_de_gracia_y_esperanza" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Expiracion" } ,
+        "om_talladoEn": { "type": "literal" , "value": "2003" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestra Madre y Señora de Gracia y Esperanza" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestra_senora_de_la_alegria" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Soledad" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1930" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestra Señora de la Alegría" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestra_senora_de_la_caridad" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Amor" } ,
+        "om_talladoEn": { "type": "literal" , "value": "Finales del Siglo XVII" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestra Señora de la Caridad" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestra_senora_de_la_misericordia" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1927" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestra Señora de la Misericordia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestra_senora_del_buen_fin_y_nazaret" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Batallas" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1990" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestra Señora del Buen Fin y Nazaret" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestra_senora_del_sagrario" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Sagrada_Cena" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1998" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestra Señora del Sagrario" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestro_padre_jesus_de_la_expiracion_de_la_arguijuela" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Expiracion" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XIV" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestro Padre Jesús de la Expiración de la Arguijuela" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestro_padre_jesus_de_la_humildad_en_su_prendimiento" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Humildad" } ,
+        "om_talladoEn": { "type": "literal" , "value": "2008" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestro Padre Jesús de la Humildad en su prendimiento" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestro_padre_jesus_de_la_salud_en_su_injusta_sentencia" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Salud" } ,
+        "om_talladoEn": { "type": "literal" , "value": "2009" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestro Padre Jesús de la Salud en su Injusta Sentencia" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestro_padre_jesus_del_perdon" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Ramos" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XVII" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestro Padre Jesús del Perdón" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestro_padre_jesus_nazareno" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1609" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestro Padre Jesús Nazareno" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/oracion_en_el_huerto" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Vera_Cruz" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1898" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Oración en el Huerto" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/sagrada_cena" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Sagrada_Cena" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1995-2009" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Sagrada Cena" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisima_virgen_de_la_soledad" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Soledad" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XVI" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísima Virgen de la Soledad" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisima_virgen_maria_corredentora" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Humilladero" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1960" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísima Virgen María Corredentora" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_de_la_buena_muerte" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Ramos" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1661" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo de la Buena Muerte" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_de_la_preciosa_sangre" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Humilladero" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1970" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo de la Preciosa Sangre" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_de_la_victoria" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Victoria" } ,
+        "om_talladoEn": { "type": "literal" , "value": "2007" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo de la Victoria" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_de_las_batallas" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Batallas" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1953" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo de las Batallas" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_de_los_milagros" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1580" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo de los Milagros" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_del_amor" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Amor" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1930" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo del Amor" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_del_amparo" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Amparo" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1671" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo del Amparo" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_del_calvario" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Estudiantes" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XVI" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo del Calvario" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santisimo_cristo_del_humilladero" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Humilladero" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XIV" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santísimo Cristo del Humilladero" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/santo_crucifijo_de_santa_maria_cristo_negro" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Cristo_Negro" } ,
+        "om_talladoEn": { "type": "literal" , "value": "XIV" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Santo Crucifijo de Santa María (Cristo Negro)" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/senor_de_la_columna" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Humilladero" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1655" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Señor de la Columna" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/virgen_de_las_angustias" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Nazareno" } ,
+        "om_talladoEn": { "type": "literal" , "value": "1914" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Virgen de las Angustias" }
+      } ,
+      {
+        "uri": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/ImagenDeCulto/nuestro_padre_jesus_de_la_entrega" } ,
+        "om_esCustodiadaPor": { "type": "uri" , "value": "http://opendata.caceres.es/recurso/cultura-ocio/religion/Cofradia/Amor" } ,
+        "rdfs_label": { "type": "literal" , "xml:lang": "es" , "value": "Nuestro Padre Jesús de la Entrega" }
+      }
+    ]
+  }
+}
